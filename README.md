@@ -5,7 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- tips(notEnglish and other)
+- tips(notEnglish and other,only Chinese):
+- 相关:
+- bilibili:凌辰依山Private
+- EMAIL:ymxdxylcys111@outlook.com
 <!---
 mclcys555000/mclcys555000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
