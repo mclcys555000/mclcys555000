@@ -10,14 +10,14 @@
 - bilibili:凌辰依山Private
 - EMAIL:ymxdxylcys111@outlook.com
 - ANother email :
-- - - - - - ymxdxylcys@outlook.com
-- - - - - - 2713975609@qq.com
-- - - - - - lcys44616@gmail.com
+- - ymxdxylcys@outlook.com
+- - 2713975609@qq.com
+- - lcys44616@gmail.com
 - activity place :
-- - - - - - minecraft
-- - - - - - bilibili
-- - - - - - qq space
-- - - - - - wechat
+- - minecraft
+- - bilibili
+- - qq space
+- - wechat
 <!---
 mclcys555000/mclcys555000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
